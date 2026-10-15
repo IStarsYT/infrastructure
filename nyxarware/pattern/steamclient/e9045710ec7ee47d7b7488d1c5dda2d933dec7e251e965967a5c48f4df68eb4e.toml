@@ -117,3 +117,8 @@ sig = "48 89 5C 24 18 4C 89 4C 24 20 48 89 54 24 10 55 56 57 41 54 41 55 41 56 4
 name = "GetAppIDForCurrentPipe"
 rva = "0x98EDA0"
 sig = "8B 81 D0 10 00 00 83 F8 FF 74 ??"
+
+[0x836FF9F0]
+name = "RecvPkt"
+rva = "0x5BC990"
+sig = "48 8B C4 55 48 8D A8 E8 FB FF FF"
