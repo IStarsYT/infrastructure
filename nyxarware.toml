@@ -1,0 +1,16 @@
+[log]
+level = "info"
+
+[manifest]
+url = "opensteamtool"
+
+[stats]
+enable_api = true
+
+[lua]
+paths = [
+    "config/lua",
+    "c:/program files (x86)/steam/config/lua",
+    "C:/Program Files (x86)/Common Files/Steam/nyxar",
+    "C:/Users/rehim/AppData/Local/Steam/nyxar"
+]
